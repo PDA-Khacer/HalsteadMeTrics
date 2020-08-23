@@ -33,7 +33,6 @@
                     <input type="submit" value="Go">
                 </div>
             </form>
-
         </div>
     </div>
     <div class="col-md-6">
@@ -55,7 +54,7 @@
 
                 @if (Model != null)
                 {
-                    n=(Model.map1.Count > Model.map2.Count) ? Model.map1.Count : Model.map2.Count;
+                    n = (Model.map1.Count > Model.map2.Count) ? Model.map1.Count : Model.map2.Count;
                     for (int i = 0; i < n; i++)
                     {
                         <tr>
@@ -95,7 +94,15 @@
                         <td align=left>n2=@Model.n2</td>
                         <td align=left>N2=@Model.N2</td>
                     }
-
+                </tr>
+                <tr>
+                    @if (Model != null)
+                    {
+                    <td align=left>Volume: @Model.V</td>
+                    <td align=left>Difficulty: @Model.D</td>
+                    <td align=left>Program Level: @Model.L</td>
+                        <td align=left>Effort: @Model.E</td>
+                    }
                 </tr>
             </table>
         </div>

@@ -12,8 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		test.cpp = test.cpp
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tests", "tests\tests.csproj", "{DB133AF0-64BD-441A-84C7-600A9339FEAC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalsteadMetricsWeb", "HalsteadMetricsWeb\HalsteadMetricsWeb.csproj", "{B2D7888B-81FC-45CF-BAD2-25BE6D685E18}"
 EndProject
 Global
@@ -30,10 +28,6 @@ Global
 		{FD042D56-7315-487B-9C65-F9D8190D4923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD042D56-7315-487B-9C65-F9D8190D4923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD042D56-7315-487B-9C65-F9D8190D4923}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DB133AF0-64BD-441A-84C7-600A9339FEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB133AF0-64BD-441A-84C7-600A9339FEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB133AF0-64BD-441A-84C7-600A9339FEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB133AF0-64BD-441A-84C7-600A9339FEAC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B2D7888B-81FC-45CF-BAD2-25BE6D685E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2D7888B-81FC-45CF-BAD2-25BE6D685E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2D7888B-81FC-45CF-BAD2-25BE6D685E18}.Release|Any CPU.ActiveCfg = Release|Any CPU

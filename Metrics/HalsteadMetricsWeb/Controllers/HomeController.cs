@@ -243,7 +243,16 @@ namespace HalsteadMetricsWeb.Controllers
             {
                 model.N2 += i.Value;
             }
-                
+            // tính các thành phần còn lại
+            model.N = model.N1 + model.N2;
+            model.n = model.n1 + model.n2;
+            model.V= model.N * Math.Log(model.n,2);
+            //D = (n1 / 2) * (N2 / n2) 
+            model.D = (model.n1 / 2) * (model.N2 / model.n2);
+            //D=1/L
+            model.L = 1 / model.D;
+            //E = V / L = D * V = Difficulty * Volume
+            model.E = model.D * model.V;
             return View("Index", model) ;
         }
     }

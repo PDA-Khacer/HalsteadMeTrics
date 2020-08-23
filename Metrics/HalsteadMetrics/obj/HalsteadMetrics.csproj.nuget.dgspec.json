@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programing\\Project\\C#\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj": {}
+    "D:\\Programing\\Project\\C#\\Halstead\\HalsteadMeTrics\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj": {}
   },
   "projects": {
-    "D:\\Programing\\Project\\C#\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj": {
+    "D:\\Programing\\Project\\C#\\Halstead\\HalsteadMeTrics\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\Project\\C#\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj",
+        "projectUniqueName": "D:\\Programing\\Project\\C#\\Halstead\\HalsteadMeTrics\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj",
         "projectName": "HalsteadMetrics",
-        "projectPath": "D:\\Programing\\Project\\C#\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj",
+        "projectPath": "D:\\Programing\\Project\\C#\\Halstead\\HalsteadMeTrics\\Metrics\\HalsteadMetrics\\HalsteadMetrics.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\Project\\C#\\Metrics\\HalsteadMetrics\\obj\\",
+        "outputPath": "D:\\Programing\\Project\\C#\\Halstead\\HalsteadMeTrics\\Metrics\\HalsteadMetrics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
