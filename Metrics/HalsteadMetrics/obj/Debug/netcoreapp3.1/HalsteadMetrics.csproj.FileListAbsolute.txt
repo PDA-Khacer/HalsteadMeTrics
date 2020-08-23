@@ -1,0 +1,11 @@
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\bin\Debug\netcoreapp3.1\HalsteadMetrics.exe
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\bin\Debug\netcoreapp3.1\HalsteadMetrics.deps.json
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\bin\Debug\netcoreapp3.1\HalsteadMetrics.runtimeconfig.json
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\bin\Debug\netcoreapp3.1\HalsteadMetrics.runtimeconfig.dev.json
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\bin\Debug\netcoreapp3.1\HalsteadMetrics.dll
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\bin\Debug\netcoreapp3.1\HalsteadMetrics.pdb
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\obj\Debug\netcoreapp3.1\HalsteadMetrics.csprojAssemblyReference.cache
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\obj\Debug\netcoreapp3.1\HalsteadMetrics.AssemblyInfoInputs.cache
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\obj\Debug\netcoreapp3.1\HalsteadMetrics.AssemblyInfo.cs
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\obj\Debug\netcoreapp3.1\HalsteadMetrics.dll
+D:\Programing\Project\C#\Metrics\HalsteadMetrics\obj\Debug\netcoreapp3.1\HalsteadMetrics.pdb
